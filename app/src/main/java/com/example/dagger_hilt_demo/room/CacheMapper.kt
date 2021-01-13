@@ -1,6 +1,6 @@
 package com.example.dagger_hilt_demo.room
 
-import com.example.dagger_hilt_demo.model.Blog
+import com.example.dagger_hilt_demo.mvvm.model.Blog
 import com.example.dagger_hilt_demo.utils.EntityMapper
 import javax.inject.Inject
 

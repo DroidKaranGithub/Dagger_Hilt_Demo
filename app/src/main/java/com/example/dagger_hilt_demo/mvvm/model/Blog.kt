@@ -1,4 +1,4 @@
-package com.example.dagger_hilt_demo.model
+package com.example.dagger_hilt_demo.mvvm.model
 
 data class Blog(
         var id:Int,
